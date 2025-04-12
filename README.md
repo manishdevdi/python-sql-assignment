@@ -113,4 +113,4 @@ Made with ❤️ by **Manish Devdi**
 
 ## 📌 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/manishdevdi/python-sql-assignment/blob/main/License).
