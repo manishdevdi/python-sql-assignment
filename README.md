@@ -3,7 +3,7 @@
 This repository contains the completed tasks from a Python & SQL assignment, showcasing data engineering, cleaning, and querying skills using Python (Pandas) and SQL.
 
 ## 📁 Project Structure
-
+```
 python-sql-assignment/
 │
 ├── etl_pipeline/
@@ -27,7 +27,7 @@ python-sql-assignment/
 │
 └── README.md
 
-
+```
 ---
 
 ## 🔄 Task 1: ETL Pipeline Simulation
