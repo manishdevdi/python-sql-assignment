@@ -53,7 +53,7 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 
 **Objective**: Identify missing hourly sensor readings over the past 24 hours for each sensor.
 
-📄 See: [`sql_queries/data_gaps.sql`](sql_queries/data_gaps.sql)
+📄 See: [`sql_queries/identify_missing_hourly_readings.sql`]()
 
 ---
 
@@ -86,7 +86,7 @@ Find Gold members who have spent over $250 across all transactions.
 
 ## 📬 Contact
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Manish Devdi  
 📧 [YourEmail@example.com]  
 🌐 [LinkedIn / Portfolio link]
 
