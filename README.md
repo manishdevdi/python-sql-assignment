@@ -71,8 +71,8 @@ Find Gold members who have spent over $250 across all transactions.
 - `INNER JOIN`, `SUM(amount)`, `GROUP BY`, and `HAVING` in SQL.
 - `pandas.merge()`, `groupby()`, and filtering in Python.
 
-📁 Python: [`vip_customers_analysis/vip_customers.py`](vip_customers_analysis/vip_customers.py)  
-📄 SQL: [`sql_queries/vip_customers.sql`](sql_queries/vip_customers.sql)
+📁 Python: ['https://github.com/manishdevdi/python-sql-assignment/blob/main/vip_customers_analysis/vip_customers_analysis.ipynb'](vip_customers_analysis/vip_customers_analysis.ipynb)   
+📄 SQL: ['https://github.com/manishdevdi/python-sql-assignment/blob/main/vip_customers_analysis/vip_customers_query.sql'](sql_queries/vip_customers_query.sql) 
 
 ---
 
