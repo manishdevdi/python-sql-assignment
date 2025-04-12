@@ -8,7 +8,7 @@ python-sql-assignment/
 │
 ├── etl_pipeline/
 │   ├── etl_pipeline.ipynb
-│   └── cleaned_reviews_output.xls
+│   ├── cleaned_reviews_output.xls
 │   └── cleaned_reviews_output.json
 │
 ├── data_deduplication/
@@ -17,15 +17,16 @@ python-sql-assignment/
 │
 ├── sql_queries/
 │   ├── data_joins_filtering.sql
-│   ├── identify_missing_hourly_readings.sql
+│   └── identify_missing_hourly_readings.sql
 │
 ├── vip_customers_analysis/
 │   ├── purchases.csv
 │   ├── members.csv
-│   └── vip_customers_query.sql
+│   ├── vip_customers_query.sql
 │   └── vip_customers_analysis.ipynb
 │
 └── README.md
+
 
 ---
 
