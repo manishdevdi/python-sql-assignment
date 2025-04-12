@@ -4,10 +4,28 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 
 ## 📁 Project Structure
 
-- `etl_pipeline/` – Simulated ETL pipeline on product review data.
-- `data_deduplication/` – Script to clean duplicate user records.
-- `sql_queries/` – SQL queries for joins, filtering, and data analysis.
-- `vip_customers_analysis/` – Analyze customer purchases and membership data using both Python and SQL.
+python-sql-assignment/
+│
+├── etl_pipeline/
+│   ├── etl_pipeline.ipynb
+│   └── cleaned_reviews_output.xls
+│   └── cleaned_reviews_output.json
+│
+├── data_deduplication/
+│   ├── data_deduplication.ipynb
+│   └── deduplicated_users.xls
+│
+├── sql_queries/
+│   ├── data_joins_filtering.sql
+│   ├── identify_missing_hourly_readings.sql
+│
+├── vip_customers_analysis/
+│   ├── purchases.csv
+│   ├── members.csv
+│   └── vip_customers_query.sql
+│   └── vip_customers_analysis.ipynb
+│
+└── README.md
 
 ---
 
@@ -20,9 +38,10 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
   - Remove rows with null ratings or reviews.
   - Ensure ratings are integers within the 1–5 range.
   - Extract simple sentiment: mark as "Negative" if "bad" is in the review text, else "Positive".
-- **Load**: Save the cleaned and enriched dataset to a CSV.
+- **Load**: Save the cleaned and enriched dataset to a CSV or JSON(Optional) file.
 
-🔧 Implemented in: [`etl_pipeline/etl_pipeline.py`](etl_pipeline/etl_pipeline.py)
+🔧 Implemented in: [`etl_pipeline/etl_pipeline.ipynb`](https://github.com/manishdevdi/python-sql-assignment/blob/main/etl_pipeline/etl_pipeline.ipynb
+)
 
 ---
 
@@ -32,7 +51,7 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 
 - Use `last_updated` to retain the most recent record.
 
-🔧 Implemented in: [`data_deduplication/deduplication.py`]()
+🔧 Implemented in: [`data_deduplication/data_deduplication.ipynb`](https://github.com/manishdevdi/python-sql-assignment/blob/main/data_deduplication/data_deduplication.ipynb)
 
 ---
 
@@ -86,9 +105,9 @@ Find Gold members who have spent over $250 across all transactions.
 
 ## 📬 Contact
 
-Made with ❤️ by Manish Devdi  
-📧 [YourEmail@example.com]  
-🌐 [LinkedIn / Portfolio link]
+Made with ❤️ by **Manish Devdi**  
+📧 [manishdevdi778@gmail.com](mailto:manishdevdi778@gmail.com)  
+🌐 [LinkedIn – Manish Devdi](https://www.linkedin.com/in/manish-devdi/)
 
 ---
 
