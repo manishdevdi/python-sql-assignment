@@ -1,6 +1,6 @@
 # 🐍 Python & SQL Mini Project Assignment
 
-This repository contains the completed tasks from a Python & SQL assignment, showcasing data engineering, cleaning, and querying skills using Python (Pandas) and SQL.
+This repository contains the solution to a short assignment provided as part of the internship selection process at Data Arize Technologies.
 
 ## 📁 Project Structure
 ```
