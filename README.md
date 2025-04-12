@@ -32,7 +32,7 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 
 - Use `last_updated` to retain the most recent record.
 
-🔧 Implemented in: [`data_deduplication/deduplication.py`](data_deduplication/deduplication.py)
+🔧 Implemented in: [`data_deduplication/deduplication.py`]()
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 - `GROUP BY`
 - `HAVING`
 
-📄 See: [`sql_queries/data_joins_and_filtering.sql`](sql_queries/data_joins_and_filtering.sql)
+📄 See: [`sql_queries/data_joins_filtering.sql`](https://github.com/manishdevdi/python-sql-assignment/blob/main/sql_queries/data_joins_filtering.sql)
 
 ---
 
@@ -53,7 +53,7 @@ This repository contains the completed tasks from a Python & SQL assignment, sho
 
 **Objective**: Identify missing hourly sensor readings over the past 24 hours for each sensor.
 
-📄 See: [`sql_queries/identify_missing_hourly_readings.sql`]()
+📄 See: [`sql_queries/identify_missing_hourly_readings.sql`](https://github.com/manishdevdi/python-sql-assignment/blob/main/sql_queries/identify_missing_hourly_readings.sql)
 
 ---
 
