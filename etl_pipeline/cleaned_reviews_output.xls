@@ -1,0 +1,7 @@
+review_id,user_id,rating,review_text,review_date,sentiment
+R101,U001,5.0,Excellent product!,01-03-2024,Positive
+R102,U002,4.0,Pretty good,02-03-2024,Positive
+R104,U004,2.0,Bad quality,04-03-2024,Negative
+R105,U005,1.0,Not bad,05-03-2024,Negative
+R108,U008,3.0,Terrible and bad experience,08-03-2024,Negative
+R109,U009,4.0,Absolutely amazing!,09-03-2024,Positive

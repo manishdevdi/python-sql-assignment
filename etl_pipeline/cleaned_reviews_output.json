@@ -1,0 +1,6 @@
+{"review_id":"R101","user_id":"U001","rating":5.0,"review_text":"Excellent product!","review_date":"01-03-2024","sentiment":"Positive"}
+{"review_id":"R102","user_id":"U002","rating":4.0,"review_text":"Pretty good","review_date":"02-03-2024","sentiment":"Positive"}
+{"review_id":"R104","user_id":"U004","rating":2.0,"review_text":"Bad quality","review_date":"04-03-2024","sentiment":"Negative"}
+{"review_id":"R105","user_id":"U005","rating":1.0,"review_text":"Not bad","review_date":"05-03-2024","sentiment":"Negative"}
+{"review_id":"R108","user_id":"U008","rating":3.0,"review_text":"Terrible and bad experience","review_date":"08-03-2024","sentiment":"Negative"}
+{"review_id":"R109","user_id":"U009","rating":4.0,"review_text":"Absolutely amazing!","review_date":"09-03-2024","sentiment":"Positive"}
